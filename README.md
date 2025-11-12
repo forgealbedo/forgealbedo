@@ -2,7 +2,7 @@
   
 <p align="center">
   
-<img src="https://raw.githubusercontent.com/forgealbedo/forgealbedo/refs/heads/main/oberon.gif" width="500">
+<img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/oberon.gif" width="500">
   
 multifandom adult i host and play mafia
 

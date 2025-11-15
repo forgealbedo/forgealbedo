@@ -10,6 +10,8 @@
 
 <sub>i do not have a name for myself. my friends call me warlic, but you can also call me by any of my skin.</sub>
 
+---
+
 <sub><sup>psssst if you're an artix entertainment fan, feel free to talk to me about it.</sub></sup>
 
 
@@ -21,9 +23,6 @@
 <img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/gravelyn1.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/sepulchureevil.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/shadowscythe.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/gravelyn2.gif">
 
 <img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/alteongood.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/artix.gif">
-
-<img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/safiria.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/xan.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/vordred.gif">
-
 
 <br clear="left"/>
 

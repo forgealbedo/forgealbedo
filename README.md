@@ -20,9 +20,7 @@
 
 <img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/vath.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/kitsune.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/wolfwing.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/kimberly.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/ledgermayne.gif">
 
-<img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/gravelyn1.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/sepulchureevil.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/shadowscythe.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/gravelyn2.gif">
-
-<img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/alteongood.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/artix.gif">
+<img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/gravelyn1.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/sepulchureevil.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/shadowscythe.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/gravelyn2.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/alteongood.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/artix.gif">
 
 <br clear="left"/>
 

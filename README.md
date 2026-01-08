@@ -6,15 +6,11 @@
 
 <sub>multifandom <i><b>adult</b></i></sub>
 
-<sub>no name but mostly known as warlic or drakath</a></sub>
+<sub>no name but mostly known as warlic or drakath, you can also call me by any of my skin</a></sub>
 
-<sub>you can also call me by any of my skin</sub>
+<sub><sup>psssst if you're an artix entertainment fan, feel free to talk to me about it</sub></sup>
 
 ---
-
-<sub><sup>psssst if you're an artix entertainment fan, feel free to talk to me about it.</sub></sup>
-
-
 
 <img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/drakath1.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/drakath2.gif"><img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/drakath3.gif">
 

@@ -2,13 +2,13 @@
   
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/chorusinsaniae.png" align="right" width="390px"/>
+<img src="https://raw.githubusercontent.com/forgealbedo/img/refs/heads/main/ibuprofendrakath.png" align="right" width="390px"/>
 
 <sub>multifandom <i><b>adult</b></i></sub>
 
-<sub>i host and play mafia. my rulebook: <a href="https://github.com/forgealbedo/rulebook">pt mafia rulebook</a></sub>
+<sub>no name but mostly known as warlic or drakath</a></sub>
 
-<sub>i do not have a name for myself. my friends call me warlic, but you can also call me by any of my skin.</sub>
+<sub>you can also call me by any of my skin</sub>
 
 ---
 
